@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Questions>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>4</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>3</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>5</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>3</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>4</Expert1Semantic>
+    <Expert1MachineLearning>3</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>4</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>4</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>5</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>5</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>3</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>1</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>4</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>3</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>3</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>1</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>3</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>3</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>3</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>1</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>3</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>3</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>3</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>3</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>3</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>1</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>5</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>3</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>2</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>2</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>3</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>2</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>4</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>5</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>5</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>1</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>4</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>2</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>4</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>2</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>5</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>1</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>1</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>3</Expert2Semantic>
+    <Expert2MachineLearning>3</Expert2MachineLearning>
+    <Expert3Semantic>5</Expert3Semantic>
+    <Expert3MachineLearning>4</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj, an Indian warrior king and a member of the Bhonsle Maratha clan, was born in 1630.</Context>
+    <QuestionSemantic>When was Shivaji Maharaj born?</QuestionSemantic>
+    <QuestionMachineLearning>What is the birth year of Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>3</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>4</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>5</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>2</Expert5Semantic>
+    <Expert5MachineLearning>3</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj created an independent Maratha kingdom with Raigad as its capital.</Context>
+    <QuestionSemantic>What kingdom did Shivaji Maharaj create?</QuestionSemantic>
+    <QuestionMachineLearning>Which kingdom was founded by Shivaji Maharaj?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>2</Expert1MachineLearning>
+    <Expert2Semantic>5</Expert2Semantic>
+    <Expert2MachineLearning>2</Expert2MachineLearning>
+    <Expert3Semantic>2</Expert3Semantic>
+    <Expert3MachineLearning>2</Expert3MachineLearning>
+    <Expert4Semantic>2</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>4</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>The Treaty of Purandar (1665) between Shivaji Maharaj and the Mughal Empire allowed Shivaji to keep 12 forts.</Context>
+    <QuestionSemantic>What was the Treaty of Purandar?</QuestionSemantic>
+    <QuestionMachineLearning>Describe the Treaty of Purandar between Shivaji and the Mughal Empire.</QuestionMachineLearning>
+    <Expert1Semantic>2</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>3</Expert3Semantic>
+    <Expert3MachineLearning>5</Expert3MachineLearning>
+    <Expert4Semantic>4</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>5</Expert5Semantic>
+    <Expert5MachineLearning>5</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji was formally crowned as the Chhatrapati (Monarch) of his realm at Raigad in 1674.</Context>
+    <QuestionSemantic>When was Shivaji crowned at Raigad?</QuestionSemantic>
+    <QuestionMachineLearning>In what year was Shivaji Maharaj crowned?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>4</Expert1MachineLearning>
+    <Expert2Semantic>2</Expert2Semantic>
+    <Expert2MachineLearning>5</Expert2MachineLearning>
+    <Expert3Semantic>1</Expert3Semantic>
+    <Expert3MachineLearning>3</Expert3MachineLearning>
+    <Expert4Semantic>1</Expert4Semantic>
+    <Expert4MachineLearning>3</Expert4MachineLearning>
+    <Expert5Semantic>4</Expert5Semantic>
+    <Expert5MachineLearning>2</Expert5MachineLearning>
+  </QuestionEntry>
+  <QuestionEntry>
+    <Context>Shivaji Maharaj's military forces expanded the Maratha sphere of influence, capturing a significant portion of the Deccan for the Marathas.</Context>
+    <QuestionSemantic>What territories did Shivaji's forces capture?</QuestionSemantic>
+    <QuestionMachineLearning>What areas did Shivaji Maharaj's military expand into?</QuestionMachineLearning>
+    <Expert1Semantic>1</Expert1Semantic>
+    <Expert1MachineLearning>5</Expert1MachineLearning>
+    <Expert2Semantic>4</Expert2Semantic>
+    <Expert2MachineLearning>1</Expert2MachineLearning>
+    <Expert3Semantic>5</Expert3Semantic>
+    <Expert3MachineLearning>1</Expert3MachineLearning>
+    <Expert4Semantic>3</Expert4Semantic>
+    <Expert4MachineLearning>1</Expert4MachineLearning>
+    <Expert5Semantic>1</Expert5Semantic>
+    <Expert5MachineLearning>1</Expert5MachineLearning>
+  </QuestionEntry>
+</Questions>
